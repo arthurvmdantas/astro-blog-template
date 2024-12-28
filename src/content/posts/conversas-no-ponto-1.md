@@ -1,13 +1,13 @@
 ---
-title: "Conversas no Ponto - #111"
-description: "Essa é a descrição"
-abstract: "Esse é o resumo"
-date: 2024-12-15T03:00:00Z
+title: "Conversas no Ponto - #1"
+description: "Conversas no ponto sobre a felicidade e merecimento."
+abstract: "Você merece ser feliz?"
+date: 2024-12-25T03:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["conversas"]
 authors: ["Arthur"]
 tags: ["conversas", "felicidade"]
-draft: true
+draft: false
 ---
 <p style="text-align:center;">Foto de <a href="https://unsplash.com/pt-br/@gnacht?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">gustavo nacht</a> na <a href="https://unsplash.com/pt-br/fotografias/uma-multidao-de-pessoas-com-guarda-chuvas-parados-a-beira-de-uma-estrada-kEJG9yeGSYU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
 
@@ -44,14 +44,14 @@ e sobre tudo enquanto o ônibus não chegava. O seu Elias não teve muita educa�
 
 \- Ah, agora entendi. Então a frase do adesivo tem uma mensagem bem diferente da frase do meu amigo. É como se ela dissesse que eu mereço ser feliz não importa o que eu faça. É isso?
 
-\- Isso! Pelo menos é o que parece subentendido, não é? E podemos ir além. E se você não for feliz, com quem vai reclamar? Já que você merece, deveria poder reclamar com alguém que teria a obrigação de te fazer feliz, não é?
+\- Isso! Pelo menos é o que parece subentendido, não é? E podemos ir além. E se você não for feliz, de quem vai reclamar? Já que você merece, deveria poder reclamar com alguém que teria a obrigação de te fazer feliz, não é?
 
 \- Entendi, entendi. Estava aqui pensando que poderia ser algo do tipo "direito à vida", mas acho que é ainda mais complicado. Se o Estado tivesse essa obrigação, como ele teria certeza que alguém é ou não feliz?
 
-> E se você não for feliz, com quem vai reclamar?
+> E se você não for feliz, de quem vai reclamar?
 
 \- Lá vem o seu ônibus.
 
 \- Sim. Hoje o senhor está inspirado, hein? - Eduardo riu enquanto ainda pensava sobre o assunto. - Acho que a viagem de hoje vai ser rápida. Até mais seu Elias!
 
-\- Até mais, meu jovem! Tenha um bom dia!
+\- Até mais, meu jovem. Tenha um bom dia.
