@@ -1,6 +1,6 @@
 ---
-title: "Conversas no Ponto - #1"
-description: "Conversas no ponto sobre a felicidade e merecimento."
+title: "Conversas - #1"
+description: "Conversa sobre a felicidade e o seu merecimento."
 abstract: "Você merece ser feliz?"
 date: 2024-12-25T03:00:00Z
 image: "/images/posts/01.jpg"
